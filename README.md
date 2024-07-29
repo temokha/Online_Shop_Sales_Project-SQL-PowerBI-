@@ -3,9 +3,7 @@
 ![image](https://github.com/user-attachments/assets/d99b874f-03c5-4ce7-b31e-0c48553d0bb0)
 ![image](https://github.com/user-attachments/assets/b5a5dd28-203f-4581-ac1d-70d98e8d31c1)
 
-## [RUS]
-
-## О проекте
+## О проекте [RUS]
 
 Проект был посвящен анализу продаж онлайн-магазина и включал несколько ключевых этапов, которые обеспечили успешное выполнение поставленных задач.
 
@@ -55,12 +53,11 @@
 -	Анализ продаж будни/входные: для анализа продаж в будние и выходные дни создайте визуализацию, которая показывает объем продаж, сгруппированный по типу дня недели. 
 
 ## Стек
-- MySql
+- MySQL
 - PowerBI
 
-## [ENG]
 
-## About the Project
+## About the Project [ENG]
 
 The project focused on analyzing online store sales and included several key stages that ensured successful completion of the tasks.
 
@@ -109,7 +106,7 @@ The project successfully achieved its goals, providing a convenient and efficien
 
 ## Stack
 - MySQL
-- Power BI
+- PowerBI
 
 
 
