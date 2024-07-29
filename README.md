@@ -3,6 +3,8 @@
 ![image](https://github.com/user-attachments/assets/d99b874f-03c5-4ce7-b31e-0c48553d0bb0)
 ![image](https://github.com/user-attachments/assets/b5a5dd28-203f-4581-ac1d-70d98e8d31c1)
 
+## [RUS]
+
 ## О проекте
 
 Проект был посвящен анализу продаж онлайн-магазина и включал несколько ключевых этапов, которые обеспечили успешное выполнение поставленных задач.
@@ -55,6 +57,8 @@
 ## Стек
 - MySql
 - PowerBI
+
+## [ENG]
 
 ## About the Project
 
