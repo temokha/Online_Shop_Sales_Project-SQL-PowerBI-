@@ -3,8 +3,6 @@
 ![image](https://github.com/user-attachments/assets/d99b874f-03c5-4ce7-b31e-0c48553d0bb0)
 ![image](https://github.com/user-attachments/assets/b5a5dd28-203f-4581-ac1d-70d98e8d31c1)
 
-[РУС]
-
 ## О проекте
 
 Проект был посвящен анализу продаж онлайн-магазина и включал несколько ключевых этапов, которые обеспечили успешное выполнение поставленных задач.
@@ -54,6 +52,60 @@
   
 -	Анализ продаж будни/входные: для анализа продаж в будние и выходные дни создайте визуализацию, которая показывает объем продаж, сгруппированный по типу дня недели. 
 
+## Стек
+- MySql
+- PowerBI
+
+## About the Project
+
+The project focused on analyzing online store sales and included several key stages that ensured successful completion of the tasks.
+
+The project began with the preparation of a raw data file, where the collected sales information was consolidated into a single file. Following this, a database was created to serve as the foundation for storing and processing the data. Importing data from the source file into the database enabled effective management and analysis of the information.
+
+The next important step was cleaning the imported data. This involved removing duplicates, correcting errors, and standardizing the data format. Additionally, data types were modified to ensure accurate handling and performance of various analytical operations.
+
+Executing SQL queries according to business requirements allowed for obtaining key findings and results, which were then saved for further use. To ensure transparency and reproducibility of the process, an SQL document was prepared detailing the operations performed.
+
+The final stage of the project was loading the database into Power BI, where a series of visualizations were created to represent the data. Various measures were calculated and charts were built to clearly display key sales trends. The Power BI interface allowed users to interact with the data, filter information based on various criteria, and delve into details.
+
+The project successfully achieved its goals, providing a convenient and efficient way to analyze online store sales, which will contribute to making more informed decisions and developing data-driven strategies.
+
+## Business Requirements
+
+### 1. KPI Requirements
+**Sales Analysis:**
+- Calculate total sales volume for the entire reporting period.
+- Calculate sales volume for each respective month.
+- Calculate the percentage difference in sales between the selected month and the previous month.
+
+**Order Analysis:**
+- Calculate the total number of orders for the entire reporting period.
+- Calculate the number of orders for each respective month.
+- Calculate the percentage difference in the number of orders between the selected month and the previous month.
+
+**Sold Products Analysis:**
+- Calculate the total number of sold products for the entire reporting period.
+- Calculate the number of sold products for each respective month.
+- Calculate the percentage difference in the number of sold products between the selected month and the previous month.
+
+### 2. Visualization Requirements
+- **Daily Order Trend**: Create a chart that displays the daily trend of the total number of orders.
+
+- **Monthly Order Trend**: Create a chart that allows for analyzing the dynamics of the number of orders over the months. This chart will help identify patterns and changes in order volume over different periods, which is a key aspect for planning and forecasting business activities.
+
+- **Sales Analysis by Product Categories**: Analyze sales figures across various product categories and provide information on which categories contribute the most to the total sales volume.
+
+- **Top 5 Products by Sales Volume**: Identify and display the top 5 products by sales volume.
+
+- **Geographic Sales Analysis**: Create a chart that visualizes the geographic distribution of sales. This chart will help explore which regions contribute the most to the total sales volume. Identifying geographic patterns will aid in optimizing logistics, adapting marketing strategies, and managing supplies based on regional sales data.
+
+- **Impact of Customer Gender on Sales**: Conduct a comparative analysis of sales based on customer gender. Create charts or diagrams that display the share of purchases made by men and women.
+
+- **Weekday/Weekend Sales Analysis**: To analyze sales on weekdays and weekends, create a visualization that shows the sales volume grouped by the type of day of the week.
+
+## Stack
+- MySQL
+- Power BI
 
 
 
